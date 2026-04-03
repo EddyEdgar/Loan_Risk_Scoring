@@ -4,7 +4,7 @@
 
 This project implements an end-to-end **data engineering and machine learning pipeline** for loan risk scoring. It simulates how financial institutions assess borrower risk using transactional, behavioral, and credit data.
 
----
+
 
 ## Business Problem
 
@@ -16,7 +16,6 @@ This project addresses that challenge by building a pipeline that integrates:
 * Credit history
 * Income data
 
----
 
 
 ### Key Components
@@ -26,7 +25,7 @@ This project addresses that challenge by building a pipeline that integrates:
 * **Transformation Layer**: SQL-based feature engineering
 * **Feature Store**: Curated ML-ready features
 * **ML Model**: Logistic Regression for risk classification
----
+
 
 ## Pipeline Flow
 
@@ -63,4 +62,4 @@ This project addresses that challenge by building a pipeline that integrates:
      * Medium Risk
      * High Risk
 
----
+
